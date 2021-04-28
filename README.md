@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamed0salah
-- 👀 I’m interested in py html css js
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning web developer
 
 <!---
